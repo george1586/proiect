@@ -1,1 +1,1 @@
-# proiect
+Just a small mark up on Project Odin
